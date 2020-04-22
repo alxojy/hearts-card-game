@@ -1,0 +1,48 @@
+/Users/megano/Desktop/30101670_MeganOoiJieYi/src/Logs.hs:
+  hash: c71ef2e817ec095192ab3db1215b23707324bad80f957c6ef80fc36198fa643a
+  size: 2881
+  modtime: 1568873964
+/Users/megano/Desktop/30101670_MeganOoiJieYi/src/EitherIO.hs:
+  hash: 407543a4f2e353ee48548c52c04f3b094acd1355356677b31ce71d13f673eb3b
+  size: 839
+  modtime: 1568873530
+/Users/megano/Desktop/30101670_MeganOoiJieYi/src/Game.hs:
+  hash: 9e9e2cc753f13c217cbd77dc2bca672b8bb38ece2fa6b4938958369bb9840eff
+  size: 2197
+  modtime: 1568873530
+/Users/megano/Desktop/30101670_MeganOoiJieYi/package.yaml:
+  hash: b7050b57040ae0671d557753b55c9da6a6299420fbe6dda19b327ad0acdbfd9b
+  size: 1669
+  modtime: 1568873700
+/Users/megano/Desktop/30101670_MeganOoiJieYi/README.md:
+  hash: ff8f5ba1277893251c0efb62a998fa8704714ac3ded0207fd3df01ae49df0296
+  size: 11816
+  modtime: 1568692100
+/Users/megano/Desktop/30101670_MeganOoiJieYi/src/Hearts/Types.hs:
+  hash: c3241c363d60a44a31196c23ed31c549fc7db1eee6133a5d1b9fe790a8a1a9b2
+  size: 3056
+  modtime: 1568873792
+/Users/megano/Desktop/30101670_MeganOoiJieYi/src/Cards.hs:
+  hash: 15a1aa6b7d185828ebe7f09cf9a25295a0d64f37fe4527a11394614896b9681a
+  size: 1790
+  modtime: 1569857859
+/Users/megano/Desktop/30101670_MeganOoiJieYi/hearts.cabal:
+  hash: ab4d34dd9b5ffc78c91d0802ab8064fc85378249f2dfafb94d859196174a8555
+  size: 2502
+  modtime: 1571628124
+/Users/megano/Desktop/30101670_MeganOoiJieYi/src/Hearts/Play.hs:
+  hash: 4cdb0f9d98fa570a5f45028ca4da1601bcb4216a16753b3eb62950a370974910
+  size: 8342
+  modtime: 1568873530
+/Users/megano/Desktop/30101670_MeganOoiJieYi/src/Entries.hs:
+  hash: c8f276589ea4dd8c19c0f03883d82e327d5deafd292715f11a1627b3d157276f
+  size: 1172
+  modtime: 1568873958
+/Users/megano/Desktop/30101670_MeganOoiJieYi/src/Deck.hs:
+  hash: 2d286d52c9a055fbeaccaaa1df61f351db413d416d1ca5d0967dfcb2c7e3ed21
+  size: 680
+  modtime: 1568873530
+/Users/megano/Desktop/30101670_MeganOoiJieYi/src/Hearts/Rules.hs:
+  hash: d9d77e7ba5b431941bcb2413ec5652e156d30ca9c1e77aeef9c0baaf455cff76
+  size: 4044
+  modtime: 1568873530
