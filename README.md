@@ -34,6 +34,7 @@ The cards played in the previous tricks is stored in the memory in the form ie "
 
 ### How to run the game?
 ```stack run```
+
 This would run a single game and the results will be displayed on the terminal.
 
 ## Note
