@@ -32,6 +32,10 @@ The functions in the code have been sorted based on their functionality. Small r
 ### Memory usage
 The cards played in the previous tricks is stored in the memory in the form ie "H2 SQ" separated by a whitespace. Then to get the cards, the function words is used. 
 
+### How to run the game?
+```stack run```
+This would run a single game and the results will be displayed on the terminal.
+
 ## Note
 
 This repo has been created to share my project and for future students taking this unit to get an idea on what the assignment is about. However, I do not condone the act of plagiarism so only use my work as a reference, if you wish.  
