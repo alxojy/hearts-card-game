@@ -1,4 +1,4 @@
-# Hearts Card Game
+# FIT2102 Hearts Card Game
 Haskell player implementation for a trick taking playing card game.
 
 The purpose of this assignment was to familiarise us with Haskell and to use functional programming in implementing a player for the Hearts card game. My implementation is in ```staticgame/Player.hs```. Besides that, I have also implemented a naive player and a random player. 
